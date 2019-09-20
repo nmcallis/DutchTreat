@@ -29,3 +29,4 @@ C:\Users\Administrator\documents\visual studio 2017\Projects\DutchTreat\DutchTre
 C:\Users\Administrator\documents\visual studio 2017\Projects\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
 C:\Users\Administrator\documents\visual studio 2017\Projects\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
 C:\Users\Administrator\documents\visual studio 2017\Projects\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\Razor\Views\App\Shop.g.cshtml.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
